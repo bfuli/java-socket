@@ -1,4 +1,4 @@
-.idea/
+/.idea/
 src/*/*.class
-out/
-java_socket.iml
+/out/
+/java_socket.iml
