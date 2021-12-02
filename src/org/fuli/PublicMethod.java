@@ -8,7 +8,6 @@ public class PublicMethod {
     public static int PORT = 8080;
     public PublicMethod(){
     }
-
     /**
      * 发送消息
      * @param send：要发送的消息
